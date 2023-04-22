@@ -26,3 +26,7 @@ int main()
     }
     cout << mx << endl;
 }
+
+/*
+Question Link: https://www.hackerrank.com/challenges/crush/problem 
+*/
